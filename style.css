@@ -56,11 +56,11 @@ footer {
   background-color: teal;
   padding: 50px;
 }
-.mission img {
-  height: 200px;
-  width: 200px;
-  
-}
+
+/* .mission img {
+  height: 60%;
+  width: auto;
+} */
 
 .skills {
   position: relative;
